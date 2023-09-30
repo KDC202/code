@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77b14f4f-e751-4604-94d4-c3e86b2d13c7" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/src/train_phi.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/train_phi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/validate.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/validate.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2VfGX7Ksx689M2SviLuPbRkaTHc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../新建文件夹" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77b14f4f-e751-4604-94d4-c3e86b2d13c7" name="默认的" comment="" />
+      <created>1695219757953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695219757953</updated>
+      <workItem from="1695219760642" duration="1744000" />
+      <workItem from="1695284305099" duration="2939000" />
+      <workItem from="1695287809056" duration="2638000" />
+      <workItem from="1695358621523" duration="3285000" />
+      <workItem from="1695368932928" duration="4080000" />
+      <workItem from="1695391540877" duration="83000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="345" y="58" key="#SSH_配置" timestamp="1695375571050">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="345" y="58" key="#SSH_配置/0.0.1536.824@0.0.1536.824" timestamp="1695375571050" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1695375246986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1695375246986" />
+    <state x="414" y="88" key="#选项" timestamp="1695375840588">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="414" y="88" key="#选项/0.0.1536.824@0.0.1536.824" timestamp="1695375840588" />
+    <state x="361" y="71" key="#部署" timestamp="1695375714064">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#部署/0.0.1536.824@0.0.1536.824" timestamp="1695375714064" />
+    <state x="686" y="211" key="FileChooserDialogImpl" timestamp="1695391588548">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1695375397038" />
+    <state x="686" y="211" key="FileChooserDialogImpl/0.0.1920.1040/1920.65.1536.824@0.0.1920.1040" timestamp="1695391588548" />
+    <state x="116" y="80" key="SettingsEditor" timestamp="1695376138427">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="116" y="80" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1695376138427" />
+    <state x="486" y="278" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1695375443406">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="486" y="278" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.0.1536.824@0.0.1536.824" timestamp="1695375443406" />
+    <state x="607" y="143" key="ftp.server.browser" timestamp="1695376122424">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="607" y="143" key="ftp.server.browser/0.0.1536.824@0.0.1536.824" timestamp="1695376122424" />
+    <state x="599" y="304" key="publish.login" timestamp="1695375327032">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="599" y="304" key="publish.login/0.0.1536.824@0.0.1536.824" timestamp="1695375327032" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1695358830368">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1695358830368" />
+  </component>
+</project>
